@@ -4,7 +4,7 @@ PagerSlidingTitleIconTabStrip
 ![](http://img.blog.csdn.net/20140811181252175?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQva2l0dHlqaWU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 
 
-You can add an icon next to tab title. Update form https://github.com/astuetz/PagerSlidingTabStrip
+You can add an icon next to tab title. Update from https://github.com/astuetz/PagerSlidingTabStrip
 
 compitable with PagerSlidingTabStrip completely!
 
