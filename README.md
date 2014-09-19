@@ -51,3 +51,6 @@ Example:
 			return icons[position];
 		}
 	}
+
+
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-PagerSlidingTitleIconTabStrip-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/961)
